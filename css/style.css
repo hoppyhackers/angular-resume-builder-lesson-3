@@ -14,7 +14,7 @@ hr {
 	background-image: url('https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR688778/site/banner_image_original_1438092449.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 600px;
+	padding-bottom: 25%;
 	margin-bottom: 50px;
 }
 .summary img {
