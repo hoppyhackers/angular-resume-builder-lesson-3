@@ -1,15 +1,14 @@
 body {
 	margin: 0px 0px 10px 0px;
 	font-family: 'Roboto';
+	font-weight: 300;
 	color: #555;
 }
 hr {
 	width: 70%;
 	margin: 50px 15% 50px 15%;
 }
-h1, h2, h3, h4, h5, h6 {
-	font-weight: 300;
-}
+
 /*-- SUMMARY --*/
 .summary {
 	background-image: url('https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR688778/site/banner_image_original_1438092449.jpg');
